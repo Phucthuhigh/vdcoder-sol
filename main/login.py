@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from env import browser
 
 def Login():
-    name = "Monarch"
-    password = "0612@aqws"
+    name = "..."
+    password = "..."
 
     browser.get("http://vinhdinhcoder.net/Account/LogIn")
 
